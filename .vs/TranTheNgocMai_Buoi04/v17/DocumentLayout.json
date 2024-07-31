@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\KTLT\\TH_KTLT\\TranTheNgocMai_Buoi04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20F3969B-142F-4DFB-A2B6-7D76E150B4CB}|TranTheNgocMai_Buoi04\\TranTheNgocMai_Buoi04.vcxproj|E:\\KTLT\\TH_KTLT\\TranTheNgocMai_Buoi04\\TranTheNgocMai_Buoi04\\Bai4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20F3969B-142F-4DFB-A2B6-7D76E150B4CB}|TranTheNgocMai_Buoi04\\TranTheNgocMai_Buoi04.vcxproj|solutionrelative:TranTheNgocMai_Buoi04\\Bai4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20F3969B-142F-4DFB-A2B6-7D76E150B4CB}|TranTheNgocMai_Buoi04\\TranTheNgocMai_Buoi04.vcxproj|E:\\KTLT\\TH_KTLT\\TranTheNgocMai_Buoi04\\TranTheNgocMai_Buoi04\\Bai3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{20F3969B-142F-4DFB-A2B6-7D76E150B4CB}|TranTheNgocMai_Buoi04\\TranTheNgocMai_Buoi04.vcxproj|solutionrelative:TranTheNgocMai_Buoi04\\Bai3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai4.cpp",
+              "DocumentMoniker": "E:\\KTLT\\TH_KTLT\\TranTheNgocMai_Buoi04\\TranTheNgocMai_Buoi04\\Bai4.cpp",
+              "RelativeDocumentMoniker": "TranTheNgocMai_Buoi04\\Bai4.cpp",
+              "ToolTip": "E:\\KTLT\\TH_KTLT\\TranTheNgocMai_Buoi04\\TranTheNgocMai_Buoi04\\Bai4.cpp",
+              "RelativeToolTip": "TranTheNgocMai_Buoi04\\Bai4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T12:55:18.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Bai3.cpp",
               "DocumentMoniker": "E:\\KTLT\\TH_KTLT\\TranTheNgocMai_Buoi04\\TranTheNgocMai_Buoi04\\Bai3.cpp",
               "RelativeDocumentMoniker": "TranTheNgocMai_Buoi04\\Bai3.cpp",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bai2.cpp",
               "DocumentMoniker": "E:\\KTLT\\TH_KTLT\\TranTheNgocMai_Buoi04\\TranTheNgocMai_Buoi04\\Bai2.cpp",
               "RelativeDocumentMoniker": "TranTheNgocMai_Buoi04\\Bai2.cpp",
@@ -52,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Bai1.cpp",
               "DocumentMoniker": "E:\\KTLT\\TH_KTLT\\TranTheNgocMai_Buoi04\\TranTheNgocMai_Buoi04\\Bai1.cpp",
               "RelativeDocumentMoniker": "TranTheNgocMai_Buoi04\\Bai1.cpp",
